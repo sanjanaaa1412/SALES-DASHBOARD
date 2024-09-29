@@ -24,7 +24,7 @@ The SAMS Mart Power BI dashboard is designed to:
 1. **Download Power BI Desktop**: If not already installed, download and install Power BI Desktop from the official Microsoft website.
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sams-mart-dashboard.git
+   git clone https://github.com/sanjanaaa1412/SALES-DASHBOARD.git
    ```
 3. **Open the Dashboard**:
    - Launch Power BI Desktop.
@@ -45,9 +45,6 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact 📧
-For any questions or feedback, please reach out via [your email/contact information].
-
+For any questions or feedback, please reach out via patilsanjana398@gmail.com .
 Feel free to modify this template according to your specific project details and requirements!
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/6002099/3e36d59f-ad4e-4f32-ac45-79e205a0e2ef/DMV-SAMS-IA2.pdf
